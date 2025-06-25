@@ -110,7 +110,7 @@ themeButton.addEventListener('click', () => {
 	keep your source code private/proprietary by purchasing
 	a commercial license from https://scrollrevealjs.org/
 */
-
+import ScrollReveal from 'scrollreveal';
 const sr = ScrollReveal({
     origin: 'top',
     distance: '60px',
