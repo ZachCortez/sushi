@@ -21,18 +21,16 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="25" height="25" /> Table of Contents
 
-1. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" width="25" height="25" /> [Introduction](#introduction)
-2. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" height="25" /> [Tech Stack](#tech-stack)
-3. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" width="25" height="25" /> [Features](#features)
+1. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" width="25" height="25" /> [Introduction](#introduction)  
+2. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" height="25" /> [Tech Stack](#tech-stack)  
+3. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" width="25" height="25" /> [Features](#features)  
 4. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> [Quick Start](#quick-start)
 
 ---
 
 ## <a name="introduction"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" width="25" height="25" /> Introduction</a>
 
-**Sushi Restaurant** is a sleek, modern landing page for a high-end sushi restaurant. Designed with minimalist elegance in mind, it showcases smooth scroll-based animations powered by **ScrollReveal.js** and a clean responsive layout using **HTML**, **CSS/Sass**, and **JavaScript**.
-
-
+**Sushi Restaurant** is a sleek, modern landing page tailored for a high-end sushi restaurant. It delivers an elegant experience with scroll-triggered animations using **ScrollReveal.js**, crafted with a responsive and mobile-friendly layout using **HTML**, **CSS/Sass**, and **JavaScript**.
 
 ---
 
@@ -48,11 +46,23 @@
 
 ## <a name="features"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" width="25" height="25" /> Features</a>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Responsive Design** – Optimized for desktop & mobile.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Responsive Design** – Optimized for both desktop and mobile devices
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **ScrollReveal Animations** – Subtle scroll-in effects for a premium touch.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **ScrollReveal Animations** – Smooth, scroll-in animations for enhanced interactivity
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Clean UI** – Simple layout that emphasizes content & visuals.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Clean UI/UX** – Minimalist layout prioritizing content and imagery
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Modern Aesthetics** – Styled with a high-end, minimalist approach that reflects elegance and sophistication
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Reusable Sections** – Modular structure makes it easy to duplicate and adapt components (e.g., menu, hero, contact)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Performance Optimized** – Lightweight assets and animations ensure fast load times
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Clean Codebase** – Developer-friendly and well-commented for easy updates or team collaboration
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Accessible Layout** – Semantic HTML elements improve SEO and screen reader compatibility
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" width="25" height="25" /> **Mobile-First Design** – Fully responsive and crafted for a smooth mobile browsing experience
 
 ---
 
@@ -61,7 +71,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" /> Prerequisites
 
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (optional)
+- [Node.js](https://nodejs.org/) *(optional)*
 - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for VS Code
 
 ---
@@ -72,5 +82,11 @@
 # 1. Clone the repository
 git clone https://github.com/ZachCortez/sushi.git
 
-# 2. Navigate into the project folder
+# 2. Navigate into the project directory
 cd sushi-restaurant
+
+# 3. Open with Live Server or manually open index.html
+```
+
+<a name="screenshots"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" width="25" height="25" /> Screenshots</a>
+<div align="center"> <h4>🌞 Light Mode</h4> <img src="src/design/preview_light.png" alt="Light Mode Screenshot" width="800" /> <br/><br/> <h4>🌙 Dark Mode</h4> <img src="src/design/preview_dark.png" alt="Dark Mode Screenshot" width="800" /> </div>
